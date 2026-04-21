@@ -10,7 +10,7 @@
 一段关于敲代码、debug、竞赛刷题，
 以及和“编程语言少女”贴贴的抽象脑洞日常。
 
-一个计算机专业学生学不会代码学到发疯后，随手整出来的业余作品。
+一个计算机专业学生学疯后，随手整出来的业余作品。
 
 轻松玩梗整活，全无严肃说教，
 **不是正经教学项目 😝**
@@ -32,17 +32,57 @@ Full of memes, no serious lectures —
 ## 🚀 How to Play / 如何游玩
 
 **中文：**
-前往 **Releases** 下载游戏，解压后运行 `.exe` 文件即可。
+请前往 **Releases** 下载完整游戏压缩包，解压后运行 `.exe` 文件即可。
+
+本仓库仅包含部分源码（主要剧情脚本），
+完整可运行版本请以 Release 为准。
+
+---
 
 **English:**
-Download the game from **Releases**,
-extract it and run the `.exe` file.
+Please go to **Releases** to download the full game package.
+Extract it and run the `.exe` file.
+
+This repository only contains partial source code (main story scripts).
+For the full playable version, please refer to the Release.
+
+---
+
+## 📁 Project Structure / 项目结构
+
+```text
+game/      部分游戏脚本（main story）
+```
+
+（其余运行所需文件已打包在 Release 中）
 
 ---
 
 ## 🛠 Tech Stack / 技术栈
 
 * Ren'Py 8.5
+
+---
+
+## 🎨 Assets & Credits / 资源说明
+
+**中文：**
+游戏中使用的音频、图像等资源主要来源于：
+
+* 开源/可免费使用资源
+* AI 生成内容
+
+若有遗漏或不当使用，请联系我进行修改或删除。
+
+---
+
+**English:**
+Audio, images and other assets used in this project are mainly from:
+
+* Open-source / free-to-use resources
+* AI-generated content
+
+If there is any improper use or missing credit, please contact me for correction or removal.
 
 ---
 
