@@ -1,10 +1,10 @@
 # DebuggedByLanguages
 
-# 完蛋！我被编程语言包围了！💻💕
+# 完蛋！我被编程语言包围了！
 
 ---
 
-## 🎮 About / 关于
+##  About / 关于
 
 **中文：**
 一段关于敲代码、debug、竞赛刷题，
@@ -13,7 +13,7 @@
 一个计算机专业学生学疯后，随手整出来的业余作品。
 
 轻松玩梗整活，全无严肃说教，
-**不是正经教学项目 😝**
+**不是正经教学项目 **
 
 ---
 
@@ -25,11 +25,11 @@ A silly side project made by a CS student who went slightly insane
 trying to learn programming.
 
 Full of memes, no serious lectures —
-**NOT a formal educational project 😝**
+**NOT a formal educational project **
 
 ---
 
-## 🚀 How to Play / 如何游玩
+##  How to Play / 如何游玩
 
 **中文：**
 请前往 **Releases** 下载完整游戏压缩包，解压后运行 `.exe` 文件即可。
@@ -48,7 +48,7 @@ For the full playable version, please refer to the Release.
 
 ---
 
-## 📁 Project Structure / 项目结构
+##  Project Structure / 项目结构
 
 ```text
 game/      部分游戏脚本（main story）
@@ -64,7 +64,7 @@ game/      部分游戏脚本（main story）
 
 ---
 
-## 🎨 Assets & Credits / 资源说明
+##  Assets & Credits / 资源说明
 
 **中文：**
 游戏中使用的音频、图像等资源主要来源于：
@@ -86,22 +86,22 @@ If there is any improper use or missing credit, please contact me for correction
 
 ---
 
-## 🙏 Abstract Acknowledgements / 抽象鸣谢
+##  Abstract Acknowledgements / 抽象鸣谢
 
 **中文：**
 特别致谢：豆包、DeepSeek、ChatGPT。
-本抽象项目是在学到癫狂的过程中，与它们共同完成的产物 ✨
+本抽象项目是在学到癫狂的过程中，与它们共同完成的产物 
 
 ---
 
 **English:**
 Special thanks to Doubao, DeepSeek and ChatGPT.
 This abstract project was completed together with them
-through the madness of learning. ✨
+through the madness of learning. 
 
 ---
 
-## ⚠️ Notes / 注意
+## Notes / 注意
 
 **中文：**
 
@@ -119,6 +119,6 @@ through the madness of learning. ✨
 
 ---
 
-## 📜 License
+## License
 
 MIT License
